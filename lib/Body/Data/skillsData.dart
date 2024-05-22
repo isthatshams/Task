@@ -1,0 +1,1 @@
+const SkillsList = ["Dedication","Team Working","Problem Solving"];
